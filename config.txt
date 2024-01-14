@@ -1,2 +1,2 @@
-Server : LAPTOP-6U1LH3RM\SQLEXPRESS;
+Server : "O Nome do servidor do seu SqlServer";
 Databse : db_sys_academico;
