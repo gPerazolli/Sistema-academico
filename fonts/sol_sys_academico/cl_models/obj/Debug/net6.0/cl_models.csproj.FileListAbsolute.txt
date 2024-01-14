@@ -1,0 +1,12 @@
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_models\bin\Debug\net6.0\cl_models.deps.json
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_models\bin\Debug\net6.0\cl_models.dll
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_models\bin\Debug\net6.0\cl_models.pdb
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_models\obj\Debug\net6.0\cl_models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_models\obj\Debug\net6.0\cl_models.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_models\obj\Debug\net6.0\cl_models.AssemblyInfo.cs
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_models\obj\Debug\net6.0\cl_models.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_models\obj\Debug\net6.0\cl_models.dll
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_models\obj\Debug\net6.0\refint\cl_models.dll
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_models\obj\Debug\net6.0\cl_models.pdb
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_models\obj\Debug\net6.0\ref\cl_models.dll
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_models\obj\Debug\net6.0\cl_models.csproj.AssemblyReference.cache

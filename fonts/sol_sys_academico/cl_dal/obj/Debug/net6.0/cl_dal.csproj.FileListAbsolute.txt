@@ -1,0 +1,15 @@
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_dal\obj\Debug\net6.0\cl_dal.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_dal\obj\Debug\net6.0\cl_dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_dal\obj\Debug\net6.0\cl_dal.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_dal\obj\Debug\net6.0\cl_dal.AssemblyInfo.cs
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_dal\obj\Debug\net6.0\cl_dal.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_dal\bin\Debug\net6.0\cl_dal.deps.json
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_dal\bin\Debug\net6.0\cl_dal.dll
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_dal\bin\Debug\net6.0\cl_dal.pdb
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_dal\bin\Debug\net6.0\cl_models.dll
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_dal\bin\Debug\net6.0\cl_models.pdb
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_dal\obj\Debug\net6.0\cl_dal.csproj.CopyComplete
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_dal\obj\Debug\net6.0\cl_dal.dll
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_dal\obj\Debug\net6.0\refint\cl_dal.dll
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_dal\obj\Debug\net6.0\cl_dal.pdb
+C:\Users\guilh\Documents\Faculdade\4º_Semestre\Programacao_orientada_a_objeto\Projetos\sys_academico\fonts\sol_sys_academico\cl_dal\obj\Debug\net6.0\ref\cl_dal.dll
