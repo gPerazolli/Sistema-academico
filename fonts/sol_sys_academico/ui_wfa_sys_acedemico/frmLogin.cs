@@ -62,14 +62,13 @@ namespace ui_wfa_sys_acedemico
                         nt.SetApartmentState(ApartmentState.STA);
                         nt.Start();
                     }
-                }
-                else
-                {
-                    MessageBox.Show("Login e/ou senha invalidos");
-                    tbLogin.Text = "";
-                    tbSenha.Text = "";
-                    tbLogin.Focus();
-                    _conexao.Close();
+                    else{
+                        MessageBox.Show("Login e/ou senha invalidos");
+                        tbLogin.Text = "";
+                        tbSenha.Text = "";
+                        tbLogin.Focus();
+                        _conexao.Close();
+                    }
                 }
 
             }
